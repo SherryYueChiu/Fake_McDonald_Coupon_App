@@ -1,1 +1,3 @@
-Fake_McDonald_Coupon_App
+# 高仿版麥當勞報報
+
+**目前已沒有在更新**
